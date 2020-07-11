@@ -98,26 +98,20 @@ author:
   bio              : "Data Scientist, Economist, works with R and Python."
   location         : "Tel-Aviv, Israel"
   email            :
-  links:
-  - label: "Email"
+   links:
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "dudu.harar@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://davidharar.github.io/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/david.harar"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-          
+      url: "https://github.com/DavidHarar/"
+      
 # Site Footer
 footer:
   links:
