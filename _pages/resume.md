@@ -11,11 +11,11 @@ comments: false
 
 Education
 ---
-**Master of Arts**, Hebrew University of Jerusalem, *Statistics and Data Science*, 2021.
+**Master of Arts**, Statistics and Data Science, *Hebrew University of Jerusalem*, 2021.
 
-**Master of Arts**, Hebrew University of Jerusalem (joint program with Tel-Aviv University), *Econometrics*, 2020.
+**Master of Arts**, Econometrics, *Hebrew University of Jerusalem (joint program with Tel-Aviv University)*, 2020.
 
-**Bachelor of Arts**, The Open University of Israel, *Economics and Psychology*, 2016.
+**Bachelor of Arts**, Economics and Psychology, *The Open University of Israel*, 2016.
 
 Certifications, Courses and Seminars
 ---
