@@ -105,7 +105,7 @@
   font-family: $caption-font-family;
   font-size: $type-size-8;
   background: #000;
-  text-align: right;
+  text-align: justify;
   z-index: 5;
   opacity: 0.5;
   border-radius: $border-radius 0 0 0;
@@ -353,7 +353,7 @@
     }
 
     @include breakpoint($small) {
-      text-align: right;
+      text-align: justify;
 
       .archive__item-teaser {
         float: right;
