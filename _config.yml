@@ -94,24 +94,38 @@ analytics:
 # Site Author
 author:
   name             : "David Harar"
-  avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/bio-photo.jpg
   bio              : "Data Scientist, Economist, works with R and Python."
   location         : "Tel-Aviv, Israel"
-  email            :
-   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "dudu.harar@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://davidharar.github.io/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://www.facebook.com/david.harar"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/DavidHarar/"
-      
+  employer         :
+  googlescholar    : 
+  email            : "dudu.harar@gmail.com"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         : "https://www.facebook.com/david.harar"
+  foursquare       :
+  github           : "https://github.com/DavidHarar"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : "https://www.linkedin.com/in/david-harar-63072892/"
+  orcid            : #"http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : "4117975/amogh-mishra"
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : 
+  wikipedia        :      
+  
 # Site Footer
 footer:
   links:
