@@ -9,8 +9,6 @@ author_profile: false
 comments: false
 ---
 
-# About Me
-
 I’m currently pursuing a Master's degree in Statistics and Data Science at the Hebrew University of Jerusalem. My interests include statistics,  economics, and programming. I previously worked as a research analyst in the Israeli Antithrust Authority where I focused mainly on competition in the food industry. Today I work at a private research center, also focusing on competition.
 I also hold a Master's degree in Economics, also from the Hebrew University.
 
