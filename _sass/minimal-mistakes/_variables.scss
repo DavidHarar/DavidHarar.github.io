@@ -9,7 +9,7 @@
 $doc-font-size: 16 !default;
 
 /* paragraph indention */
-$paragraph-indent: ture !default; // true, false (default)
+$paragraph-indent: true !default; // true, false (default)
 $indent-var: 1.3em !default;
 
 /* system typefaces */
@@ -29,7 +29,7 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $sans-serif !default;
+$global-font-family: $times !default;
 $header-font-family: $sans-serif !default;
 $caption-font-family: $serif !default;
 
