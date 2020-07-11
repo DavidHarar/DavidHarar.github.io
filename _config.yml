@@ -15,9 +15,6 @@
 minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-header:
-  overlay_image: /assets/images/jellyfish-illustration-130621.png
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 locale                   : "en-US"
 title                    : "David Harar"
 title_separator          : "-"
@@ -276,9 +273,12 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+    header:
+      overlay_image: /assets/images/jellyfish-illustration-130621.png
+      caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
