@@ -13,3 +13,4 @@ I’m currently pursuing a Master's degree in Statistics and Data Science at the
 I also hold a Master's degree in Economics, also from the Hebrew University.
 
 All opinions and views are my own and do not represent my employer.
+All blog posts which were compiled with knitr R markdown were using this [script](https://github.com/dgrtwo/dgrtwo.github.com/blob/master/_scripts/knitpages.R) by [David Robinson](http://varianceexplained.org/).
