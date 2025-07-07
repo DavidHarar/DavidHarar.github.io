@@ -1,7 +1,8 @@
 ---
+layout: archive
 title: "Blogs"
-permalink: /blogs/
-layout: default
+permalink: /Blogs/
+author_profile: true
 ---
 
 ![Coffee filter analogy for feature selection](https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=800&q=80)
