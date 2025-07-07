@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "David Harar"
   avatar           : /assets/images/bio-photo.jpg
-  bio              : "Master's degree student in Statistics and Data Science, also holds a Master's degree in Economics. Works with R and Python."
+  bio              : "Hello there! I’m a data scientist with a Master’s in Statistics and Data Science from the Hebrew University of Jerusalem, where I worked in Yuval Benjamini’s lab on imputation methods for ECG data. I’m interested in multimodal modeling, representation learning, and making machine learning systems more interpretable and useful in the real world. Recently, I’ve been exploring projects at the intersection of language, vision, and structured data, especially in areas like fraud detection, satellite imagery, and medical applications."
   location         : "Tel-Aviv, Israel"
   employer         :
   googlescholar    : 
